@@ -30,16 +30,16 @@ OR
 
 ### Main window
 
-![Main window](Screenshot_1.jpg)
+![Main window](https://github.com/ChrisTs8920/ticketApp-java-gui/blob/main/screenshots/Screenshot_1.jpg?raw=true)
 
 ### New Ticket window
 
-![New Ticket window](Screenshot_2.jpg)
+![New Ticket window](https://github.com/ChrisTs8920/ticketApp-java-gui/blob/main/screenshots/Screenshot_2.jpg?raw=true)
 
 ### Ticket list window
 
-![Ticket list window](Screenshot_3.jpg)
+![Ticket list window](https://github.com/ChrisTs8920/ticketApp-java-gui/blob/main/screenshots/Screenshot_3.jpg?raw=true)
 
 ### About window
 
-![About window](Screenshot_4.jpg)
+![About window](https://github.com/ChrisTs8920/ticketApp-java-gui/blob/main/screenshots/Screenshot_4.jpg?raw=true)
