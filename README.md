@@ -13,7 +13,7 @@ It consists of the following:
 
 The user can add new tickets, and view them in the ticket list window. The tickets are saved in a data file.
 
-*This project was made during my Java introduction course in University.*
+>*This project was made during my Java introduction course in University.*
 
 ## How to run
 
